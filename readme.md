@@ -42,7 +42,6 @@ Test the Contract¶
 
 
 ![](2-3.png)
-### The screenshot of building the contract:
 
 
 
